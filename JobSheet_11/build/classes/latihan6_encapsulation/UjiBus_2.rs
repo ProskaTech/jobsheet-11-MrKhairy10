@@ -1,0 +1,1 @@
+latihan6_encapsulation.UjiBus2
