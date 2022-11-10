@@ -1,0 +1,1 @@
+latihan2_inheritance.employ

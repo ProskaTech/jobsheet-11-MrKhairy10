@@ -1,0 +1,1 @@
+latihan4_inheritance.DemoOverride2
